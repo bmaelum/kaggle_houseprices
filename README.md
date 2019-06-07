@@ -18,6 +18,9 @@ numpy==1.16.2
 pandas==0.24.2  
 scikit-learn==0.20.3  
 seaborn==0.9.0  
+Boruta==0.3
+
+For more, see requirements.txt
 
 ## Authors
 
